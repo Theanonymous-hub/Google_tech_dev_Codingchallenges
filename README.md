@@ -17,9 +17,5 @@ This repository includes challenges that cover a wide range of topics, including
 Each challenge is organized into its own directory and includes a problem statement and a solution (where applicable).
 
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-
 Happy coding! 🚀
 
